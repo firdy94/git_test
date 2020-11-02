@@ -1,3 +1,2 @@
-# hello-world
-Introductory/Misc Repository to learn Git &amp; GitHub
-Testing out using github using the hello world tutorial seems straightforward and so far so good.
+# Git Command line Functions Test
+Created this repository using Git command line tools. Will be using this repo to test out and familiarize myself with the various functions and commands in git command line tools.
